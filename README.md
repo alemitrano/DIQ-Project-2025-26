@@ -19,11 +19,11 @@ To achieve this goal, a comprehensive *Data Preparation* pipeline was implemente
 
 Tech stack:
 
-* 🐍 **Python 3.12:** The core language of the entire project.
-* ☁️ **Google Colab:** The chosen development environment to ensure reproducibility and computational power.
-* 🐼 **Pandas & NumPy:** For intensive DataFrame manipulation and mathematical operations.
-* 🔤 **RegEx & Unicodedata:** Fundamental tools applied to "tame" and standardize the chaotic texts in the original dataset.
-* 🧠 **Scikit-learn:** Used to implement and evaluate the final Machine Learning model.
+*  **Python 3.12:** The core language of the entire project.
+*  **Google Colab:** The chosen development environment to ensure reproducibility and computational power.
+*  **Pandas & NumPy:** For intensive DataFrame manipulation and mathematical operations.
+*  **RegEx & Unicodedata:** Fundamental tools applied to "tame" and standardize the chaotic texts in the original dataset.
+*  **Scikit-learn:** Used to implement and evaluate the final Machine Learning model.
 
 ### 🏆 Achieved Results
 
